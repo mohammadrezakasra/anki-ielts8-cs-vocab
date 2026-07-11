@@ -90,6 +90,10 @@ The entire database was combined into a single matrix to guarantee zero-overlap 
 * [ ] Integration of advanced grammatical structures and templates for immediate production (Speaking/Writing)
 
 ---
+## ⭐ Support this project
+If you find this matrix useful for your research, studies, or exam preparation, please consider giving this repository a **Star**! It helps the project grow and motivates the development of the upcoming Anki ecosystem.
+
+---
 
 # 🇮🇷 نسخه فارسی
 
@@ -163,6 +167,7 @@ The entire database was combined into a single matrix to guarantee zero-overlap 
 * [ ] نگاشت کالوکیشن‌ها (Collocations) برای آموزش ترکیب‌های طبیعی کلمات جهت کسب نمره Lexical Resource بالا
 * [ ] ادغام گرامرها و ساختارهای جمله‌سازی پیشرفته برای استفاده مستقیم در آزمون‌های Speaking و Writing
 
-```
-
+---
+## ⭐ حمایت از این پروژه
+اگر این ماتریس واژگانی برای پژوهش‌ها، تحصیلات یا آمادگی شما در آزمون‌ها مفید بوده است، لطفاً با دادن یک **ستاره (Star)** از این ریپازیتوری حمایت کنید! این کار به دیده شدن و رشد پروژه کمک کرده و انگیزه لازم برای توسعه و انتشار سریع‌تر سیستم فلش‌کارت‌های انکی را فراهم می‌سازد.
 ```
